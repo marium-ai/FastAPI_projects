@@ -1,0 +1,92 @@
+
+{
+    "roll_no1": {
+        "name": "ali",
+        "S/O": "Aslam Khan",
+        "Class": 10,
+        "section": "A",
+        "group": "computer science",
+        "age": 15
+    },
+
+    "roll_no2": {
+        "name": "marium",
+        "D/O": "Ahmed Ali",
+        "Class": 10,
+        "section": "B",
+        "group": "computer science",
+        "age": 15
+    },
+
+    "roll_no3": {
+        "name": "ahmed",
+        "S/O": "Bilal Khan",
+        "Class": 10,
+        "section": "A",
+        "group": "biology",
+        "age": 16
+    },
+
+    "roll_no4": {
+        "name": "hina",
+        "D/O": "Tariq Hussain",
+        "Class": 10,
+        "section": "C",
+        "group": "computer science",
+        "age": 14
+    },
+
+    "roll_no5": {
+        "name": "zain",
+        "S/O": "Rashid Ali",
+        "Class": 10,
+        "section": "B",
+        "group": "biology",
+        "age": 15
+    },
+
+    "roll_no6": {
+        "name": "ayesha",
+        "D/O": "Imran Qureshi",
+        "Class": 10,
+        "section": "A",
+        "group": "computer science",
+        "age": 16
+    },
+
+    "roll_no7": {
+        "name": "hamza",
+        "S/O": "Nadeem Akhtar",
+        "Class": 10,
+        "section": "C",
+        "group": "biology",
+        "age": 15
+    },
+
+    "roll_no8": {
+        "name": "fatima",
+        "D/O": "Yousaf Ali",
+        "Class": 10,
+        "section": "B",
+        "group": "computer science",
+        "age": 14
+    },
+
+    "roll_no9": {
+        "name": "umar",
+        "S/O": "Salman Khan",
+        "Class": 10,
+        "section": "A",
+        "group": "biology",
+        "age": 16
+    },
+
+    "roll_no10": {
+        "name": "sana",
+        "D/O": "Majid Hussain",
+        "Class": 10,
+        "section": "C",
+        "group": "computer science",
+        "age": 15
+    }
+}
